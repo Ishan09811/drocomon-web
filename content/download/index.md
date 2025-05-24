@@ -2,10 +2,9 @@
 Android builds:
 |Variants|Download|
 |--------|--------|
-|Stable|[Android Apk](https://www.mediafire.com/file/xaz61oav0qv5xsp/Drocomon+let's+go+Godot+testv3.rar/file)|
-|Smooth Beta|[Android Apk](https://www.mediafire.com/file/lidknddc4ngl3f2/Drocomon_let%2527s_go_Godot%255D_black_fix.rar/file)|
+|vFinal|[Android Apk](https://www.mediafire.com/file/n41pc0fs2m98pfn/Drocomon_final_android.rar/file)|
 
 PC:
 |Variants|Download|
 |--------|--------|
-|Windows|[Windows Executable](https://www.mediafire.com/file/fzbsefeyelel15g/DRoCoMon_Let%2527s_go_Godot_testv3_pc.rar/file)|
+|Windows (vFinal)|[Windows Executable](https://www.mediafire.com/file/39f4dbhlp9s6u0g/Drocomon_final_pc.rar/file)|
